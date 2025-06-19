@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Henrique Jacinto 🖐️
 
-💻 Desenvolvedor a 3 anos trabalhando com java. Adoro explorar novas tecnologias, resolver problemas  
+💻 Sou um profissional dedicado na área de Tecnologia da Informação, com experiência sólida em suporte técnico, instalação de sistemas, análise de sistemas e atualmente focado em desenvolvimento web. Tenho conhecimentos em Java, Spring Boot, Angular, SQL e diversas ferramentas de suporte e desenvolvimento.
+
+Meu objetivo é evoluir como desenvolvedor full-stack, contribuindo com projetos desafiadores, colaborando com equipes e aprendendo continuamente novas tecnologias.
 
 
 ## Tecnologias que eu uso no meu dia
