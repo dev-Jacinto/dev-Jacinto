@@ -3,7 +3,7 @@
 I'm a Full Stack Developer with a strong focus on Backend development using Java and Spring Boot.
 
 ## 💼 Professional Background
-- Software Engineer at C&IT
+- Systems Analyst at C&IT
 - Experience with enterprise applications, APIs and integrations
 - Background in technical support and systems analysis
 
