@@ -20,7 +20,7 @@ I'm a Full Stack Developer with a strong focus on Backend development using Java
 - Interactive Menu Web App (HTML, CSS, JavaScript)
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/henrique-jacinto-b1949368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://www.linkedin.com/in/henrique-jacinto-b1949368?
 - Email: dev.hjacinto@gmail.com
 
 
