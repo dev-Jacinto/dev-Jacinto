@@ -1,27 +1,28 @@
-# 👋 Hi, I'm Henrique Jacinto
+👋 Olá, eu sou o Henrique Jacinto
 
-I'm a Full Stack Developer with a strong focus on Backend development using Java and Spring Boot.
+Sou Desenvolvedor Full Stack com forte foco em desenvolvimento Backend usando Java e Spring Boot.
 
-## 💼 Professional Background
-- Systems Analyst at C&IT
-- Experience with enterprise applications, APIs and integrations
-- Background in technical support and systems analysis
+💼 Experiência Profissional
 
-## 🛠️ Tech Stack
-- Java | Spring Boot | REST APIs
-- Docker | RabbitMQ
-- Oracle | MongoDB
-- HTML | CSS | JavaScript
-- Basic knowledge of React
+Analista de Sistemas na C&IT
+Experiência com aplicações corporativas, APIs e integrações
+Background em suporte técnico e análise de sistemas
 
-## 🚀 Featured Projects
-- Medical Scheduling API (Java + Spring Boot + RabbitMQ)
-- Product Management API (Spring Boot + Oracle + Swagger)
-- Interactive Menu Web App (HTML, CSS, JavaScript)
+🛠️ Stack de Tecnologias
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/henrique-jacinto-b1949368?
-- Email: dev.hjacinto@gmail.com
+Java | Spring Boot | REST APIs
+Docker | RabbitMQ
+Oracle | MongoDB
+HTML | CSS | JavaScript
+Conhecimento básico de React
 
+🚀 Projetos em Destaque
 
+API de Agendamento Médico (Java + Spring Boot + RabbitMQ)
+API de Gerenciamento de Produtos (Spring Boot + Oracle + Swagger)
+Aplicação Web de Cardápio Interativo (HTML, CSS, JavaScript)
 
+📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/henrique-jacinto-b1949368?
+Email: dev.hjacinto@gmail.com
